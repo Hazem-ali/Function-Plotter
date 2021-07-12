@@ -1,14 +1,16 @@
 # Function-Plotter
-This is a GUI that plots mathematical functions using python and embedded matplotlib window inside
+This is a GUI that plots mathematical functions using python and embedded matplotlib window inside.
 
 All is needed from you is:
-1. Write Your function whose variable is x
-2. Write Both Min x and Max x limits that will show up in the graph
-3. Press "Plot Function" Button and see the result
+1. Write Your function whose variable is x.
+2. Write Both Min x and Max x limits that will show up in the graph.
+3. Press "Plot Function" Button and see the result.
 
 
 This window will show up initially when you open the GUI
 ![1](https://user-images.githubusercontent.com/18193544/125362735-b1469500-e36f-11eb-962a-cc8958d39cfb.png)
+
+
 Note: There's a status bar down to show plotting status (Success/Fail)
 
 * *Working Examples*
@@ -50,10 +52,14 @@ Note: There's a status bar down to show plotting status (Success/Fail)
 
 
 ![4](https://user-images.githubusercontent.com/18193544/125363094-4c3f6f00-e370-11eb-8cf8-27c5ed785e30.png)
+
+
 3. Empty Min x entry
 
 
 ![5](https://user-images.githubusercontent.com/18193544/125363149-65482000-e370-11eb-94f4-43a985836823.png)
+
+
 4. Wrong Function or typo
 
 
