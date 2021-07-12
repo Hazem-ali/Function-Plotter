@@ -1,5 +1,5 @@
 # Function-Plotter
-This is a GUI that plots mathematical functions
+This is a GUI that plots mathematical functions using python and embedded matplotlib window inside
 
 All is needed from you is:
 1. Write Your function whose variable is x
